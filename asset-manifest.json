@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ModuLearn/static/css/main.43a57bff.css",
+    "main.js": "/ModuLearn/static/js/main.c02d61e8.js",
+    "static/media/course6.jpg": "/ModuLearn/static/media/course6.ac1d16ecf2287e353cb2.jpg",
+    "static/media/frontImg.png": "/ModuLearn/static/media/frontImg.3e715b39c9d4eeffb048.png",
+    "static/media/course3.webp": "/ModuLearn/static/media/course3.02363fb6f133cb70019c.webp",
+    "static/media/course4.webp": "/ModuLearn/static/media/course4.a40208db479070c9ebc1.webp",
+    "static/media/course5.webp": "/ModuLearn/static/media/course5.d2f3476856f3cc0b139a.webp",
+    "static/media/course1.webp": "/ModuLearn/static/media/course1.025b759aeeaf1c5eb698.webp",
+    "static/media/course2.webp": "/ModuLearn/static/media/course2.0b8718407b8b14cea8e5.webp",
+    "static/media/hacker.webp": "/ModuLearn/static/media/hacker.1b6d4b71bd1f2ae66bb4.webp",
+    "index.html": "/ModuLearn/index.html",
+    "main.43a57bff.css.map": "/ModuLearn/static/css/main.43a57bff.css.map",
+    "main.c02d61e8.js.map": "/ModuLearn/static/js/main.c02d61e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a57bff.css",
+    "static/js/main.c02d61e8.js"
+  ]
+}
